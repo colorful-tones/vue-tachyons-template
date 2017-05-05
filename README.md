@@ -34,3 +34,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ### Credits
 
 This project was forked from Vue.js [`webpack-simple`](https://github.com/vuejs-templates/webpack-simple) template.
+
+#### To-do
+* [ ] Integrate [dynamic prompts](https://github.com/vuejs/vue-cli#writing-custom-templates-from-scratch) for generating 
+* [ ] Convert to a real template with `meta.js`
