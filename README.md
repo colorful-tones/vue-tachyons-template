@@ -21,9 +21,13 @@ You can spin up a new Vue project in one of three ways:
 
 `vue init colorful-tones/vue-tachyons-template your-new-vue-project`
 
-2. _Option 2_: download a .zip, save to your local filesytem and run at will
+2. _Option 2_: download a [.zip](https://github.com/colorful-tones/vue-tachyons-template/archive/master.zip), save to your local file sytem and run at will
 
 'vue init your/local/directory your-new-vue-project'
+
+3. _Option 3_: [fork it](https://github.com/colorful-tones/vue-tachyons-template#fork-destination-box), clone it and run it
+
+`vue init your/local/repo your-new-vue-project`
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
