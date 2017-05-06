@@ -1,4 +1,4 @@
-# vue-tachyons-template
+# vue-tachyons-template (v.1.0.1)
 
 > An "unofficial" Vue.js project starter template, which includes:
 
@@ -36,5 +36,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 This project was forked from Vue.js [`webpack-simple`](https://github.com/vuejs-templates/webpack-simple) template.
 
 #### To-do
-* [ ] Integrate [dynamic prompts](https://github.com/vuejs/vue-cli#writing-custom-templates-from-scratch) for generating 
-* [ ] Convert to a real template with `meta.js`
+* [x] Integrate [dynamic prompts](https://github.com/vuejs/vue-cli#writing-custom-templates-from-scratch) for generating 
+* [x] Convert to a real template with `meta.js`
+* [ ] Probably remove WordPress ESLinting standards
